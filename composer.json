@@ -1,16 +1,16 @@
 {
-    "name": "vendor_slug/package_slug",
-    "description": ":package_description",
+    "name": "unit-conversions/perform-unit-conversions-in-php",
+    "description": "This is my package PerformUnitConversionsInPhp",
     "keywords": [
-        ":vendor_name",
-        "package_slug"
+        "unit-conversions",
+        "perform-unit-conversions-in-php"
     ],
-    "homepage": "https://github.com/vendor_slug/package_slug",
+    "homepage": "https://github.com/unit-conversions/perform-unit-conversions-in-php",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "gekongfei",
+            "email": "389443626@qq.com",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src"
+            "UnitConversions\\PerformUnitConversionsInPhp\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "UnitConversions\\PerformUnitConversionsInPhp\\Tests\\": "tests"
         }
     },
     "scripts": {

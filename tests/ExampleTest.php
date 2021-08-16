@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace UnitConversions\PerformUnitConversionsInPhp\Tests;
 
 use PHPUnit\Framework\TestCase;
 
